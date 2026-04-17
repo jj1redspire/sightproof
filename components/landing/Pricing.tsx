@@ -81,7 +81,7 @@ export default function Pricing() {
         <div className="text-center mt-8">
           <p className="text-slate-500 text-sm font-semibold">
             Need more?{' '}
-            <a href="mailto:joel@helmport.com" className="text-teal-600 hover:underline">Enterprise plans</a>{' '}
+            <a href="mailto:joel@ashwardgroup.com" className="text-teal-600 hover:underline">Enterprise plans</a>{' '}
             available for 50+ buildings.
           </p>
           <p className="text-slate-400 text-sm font-medium mt-2">All plans include a 14-day free trial. No credit card required.</p>

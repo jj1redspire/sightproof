@@ -12,7 +12,7 @@ export default function Footer() {
         <div className="flex gap-6 text-sm font-semibold">
           <a href="/privacy" className="hover:text-white transition-colors">Privacy Policy</a>
           <a href="/terms" className="hover:text-white transition-colors">Terms of Service</a>
-          <a href="mailto:joel@helmport.com" className="hover:text-white transition-colors">Contact</a>
+          <a href="mailto:joel@ashwardgroup.com" className="hover:text-white transition-colors">Contact</a>
         </div>
         <p className="text-sm">© 2026 SightProof. All rights reserved.</p>
       </div>
